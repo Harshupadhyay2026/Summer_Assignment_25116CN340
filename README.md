@@ -1,5 +1,3 @@
-Day 3 has been uploaded successfully
-Learnt basic structure of loops and execution of basic program
-like prime number range,gcd
-Most time taken: To find gcd number
-leasttime taken : to find whether number is prime or not. 
+Day 6 has been uploaded successfully
+Least time taken to solve : To convert decimal to binary
+most time taken to solve : To set bits in a number
