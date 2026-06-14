@@ -1,3 +1,3 @@
-Day 11 has been uploaded successfully 
-Least time taken to solve : To find function to sum. two number
-  Most time taken to solve :  To find function to check prime number
+Day 14 has been uploaded successfully 
+Least time taken to solve : To write program of linear search
+  Most time taken to solve :  To write second largest elements
