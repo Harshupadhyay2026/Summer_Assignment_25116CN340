@@ -1,3 +1,4 @@
-Day 14 has been uploaded successfully 
-Least time taken to solve : To write program of linear search
-  Most time taken to solve :  To write second largest elements
+Day 17 has been uploaded successfully 
+Least time taken to solve : To write program for merging array
+  Most time taken to solve :  To write program for intersection of aaray
+
