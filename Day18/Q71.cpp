@@ -1,0 +1,33 @@
+// Binary Search
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int n,i,k,l,m,h,f=0;
+cin>>n;
+int a[n];
+for(i=0;i<n;i++)
+cin>>a[i];
+cin>>k;
+l=0;
+h=n-1;
+while(l<=h)
+{
+m=(l+h)/2;
+if(a[m]==k)
+{
+f=1;
+break;
+}
+else if(a[m]<k)
+l=m+1;
+else
+h=m-1;
+}
+if(f==1)
+cout<<"Found";
+else
+cout<<"Not Found";
+getch();
+}
