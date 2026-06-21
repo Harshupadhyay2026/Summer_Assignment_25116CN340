@@ -1,4 +1,5 @@
-Day 17 has been uploaded successfully 
-Least time taken to solve : To write program for merging array
-  Most time taken to solve :  To write program for intersection of aaray
+Day 21 has been uploaded successfully 
+Least time taken to solve : To find string length without strlen
+  Most time taken to solve :  To convert lowercase to uppercase
+
 
